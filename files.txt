@@ -1,0 +1,18 @@
+Assets/arrow/arrow.fbx
+Assets/fan/Fan.fbx
+Assets/individual fbxs/Base.fbx
+Assets/individual fbxs/Coffee.fbx
+Assets/individual fbxs/Dvd Player.fbx
+Assets/individual fbxs/Indoor Plant.fbx
+Assets/individual fbxs/PS4 Controller.fbx
+Assets/individual fbxs/PS4 Top.fbx
+Assets/individual fbxs/Phone.fbx
+Assets/individual fbxs/Remote.fbx
+Assets/individual fbxs/Room.fbx
+Assets/individual fbxs/Sofa.fbx
+Assets/individual fbxs/Sound Bar.fbx
+Assets/individual fbxs/Television.fbx
+Assets/individual fbxs/Tv Cabinet.fbx
+Assets/individual fbxs/Wall Frame.fbx
+Assets/individual fbxs/guitar.fbx
+Assets/individual fbxs/tea_table.fbx
