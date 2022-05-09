@@ -16,7 +16,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &5968656970265420114
 Transform:
@@ -59,7 +59,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -156486658544998735, guid: e962fc9785d9a4949b7f802a8f94190b, type: 3}
+  - {fileID: 2100000, guid: e3f340a9040ae5243bdbacd96e697fb6, type: 2}
   - {fileID: 3473123015285894068, guid: e962fc9785d9a4949b7f802a8f94190b, type: 3}
   - {fileID: -6443035220513836574, guid: e962fc9785d9a4949b7f802a8f94190b, type: 3}
   m_StaticBatchInfo:
@@ -99,7 +99,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &413209582154215023
 Transform:
@@ -142,7 +142,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -156486658544998735, guid: e962fc9785d9a4949b7f802a8f94190b, type: 3}
+  - {fileID: 2100000, guid: e3f340a9040ae5243bdbacd96e697fb6, type: 2}
   - {fileID: -6443035220513836574, guid: e962fc9785d9a4949b7f802a8f94190b, type: 3}
   - {fileID: 3473123015285894068, guid: e962fc9785d9a4949b7f802a8f94190b, type: 3}
   m_StaticBatchInfo:
@@ -181,7 +181,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &6706831547980951907
 Transform:
@@ -190,7 +190,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6221902580930964441}
-  m_LocalRotation: {x: 0.63923156, y: -0.3022934, z: -0.30229214, w: 0.63923484}
+  m_LocalRotation: {x: 0.63923275, y: -0.3022937, z: -0.3022937, w: 0.63923275}
   m_LocalPosition: {x: -3.21, y: 2.96, z: -3.853}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -210,7 +210,7 @@ Animator:
   m_GameObject: {fileID: 6221902580930964441}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 119c012d54cb1464ea61d04db8d44302, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -235,7 +235,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &26227420217347394
 Transform:
@@ -278,7 +278,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -156486658544998735, guid: e962fc9785d9a4949b7f802a8f94190b, type: 3}
+  - {fileID: 2100000, guid: e3f340a9040ae5243bdbacd96e697fb6, type: 2}
   - {fileID: -6443035220513836574, guid: e962fc9785d9a4949b7f802a8f94190b, type: 3}
   - {fileID: 3473123015285894068, guid: e962fc9785d9a4949b7f802a8f94190b, type: 3}
   m_StaticBatchInfo:
